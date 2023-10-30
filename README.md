@@ -1,8 +1,9 @@
 # Tetris Game App
 # Project Overview 
-- # Project Name: Tetris Game App
+- Project Name: Tetris Game App
 - Group Members: Rahul Dalavi , Sandip Gole , Parth Dalvi
 - Date: 18/10/2023
+The Tettris Game App is a cloud based solution that utilizes azure services to feel for extra features while playing an game. This Project is designed to be scalable , reliable and easy to use for anyone.
 
 Prerequisites :
 - An Azure account with an active subscription. <a href="https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F" target="_blank">Create an account for free.</a> 
