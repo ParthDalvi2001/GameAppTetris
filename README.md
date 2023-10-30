@@ -1,6 +1,6 @@
 # Tetris Game App
-# # Project Overview 
-- Project Name: Tetris Game App
+# Project Overview 
+- # Project Name: Tetris Game App
 - Group Members: Rahul Dalavi , Sandip Gole , Parth Dalvi
 - Date: 18/10/2023
 
