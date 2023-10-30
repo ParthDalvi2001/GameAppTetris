@@ -14,6 +14,9 @@ Video ---- https://drive.google.com/file/d/1oJmq9Xn8upoyJ1ZqeFr8yHG4eZUeq3aC/vie
 
 Youtube Video ---- https://youtu.be/DcmHD9m14FQ
 
+Project Demo URL --- 
+https://tetrismulund.azurewebsites.net/
+
 Project pdf url ---- https://drive.google.com/file/d/1w1RZnPFtlJU0Cv4Ag4YB6eG4wYYG6bfd/view?usp=sharing 
 
 LOGIN TO THE AZURE PORTAL
